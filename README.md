@@ -1,2 +1,2 @@
 ## Expressjs, Postgresql ve knex ile kullanımı
-tt
+Migration, seed, router kullanıldı
