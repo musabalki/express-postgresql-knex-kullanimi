@@ -1,2 +1,2 @@
 ## Expressjs, Postgresql ve knex ile kullanımı
-Migration, seed, router kullanıldı
+Migration, seed, router, middleware kulllanıldı
